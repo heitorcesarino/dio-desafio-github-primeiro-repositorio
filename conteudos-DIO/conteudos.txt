@@ -1,0 +1,5 @@
+- introdução ao pensamento computacional 
+
+- introdução a logica de programação
+
+- introdução ao git/github
